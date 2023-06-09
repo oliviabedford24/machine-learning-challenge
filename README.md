@@ -1,4 +1,4 @@
-# project-4 PLEASE READ BEFORE RUNNING THE CODE
+# PLEASE READ BEFORE RUNNING THE CODE
 
 This is Project 4 for Rice University's Data Analytics & Visualization bootcamp. In this project, we used a real-world dataset from an oil rig to generate a model to predict the rig state in a given timeframe.
 
