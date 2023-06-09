@@ -2,7 +2,9 @@
 
 This is Project 4 for Rice University's Data Analytics & Visualization bootcamp. In this project, we used a real-world dataset from an oil rig to generate a model to predict the rig state in a given timeframe.
 
-In this repository, the cleaning_data_colab file contains the steps we took to clean the data for optimal use. The Project4_rig_state_colab, Project4_NN_tuner_colab, and Project4_RandomForest_colab files contain the three iterations of machine learning models we applied to our data set, as well as some graphs generated of the data. The Projet 4 Presentation file contains the slides we presented for this project.
+In this repository, the the Project Code folder contains all the work we did for this project. The cleaning_data_colab file contains the steps we took to clean the data for optimal use. The Project4_rig_state_colab, Project4_NN_tuner_colab, and Project4_RandomForest_colab files contain the three iterations of machine learning models we applied to our data set, as well as some graphs generated of the data. 
+
+In the main branch of this repo, the Projet 4 Presentation file contains the slides we presented for this project.
 
 The dataset itself was too massive to be uploaded to Github, so we chose to complete the project in Google Colab which had the necessary capacity for our dataset. The dataset and all other files is accessible through the following link:
 https://drive.google.com/drive/u/0/folders/1sP0y4YyhX21n-W5uOfbWRKnoymdEUTpF 
